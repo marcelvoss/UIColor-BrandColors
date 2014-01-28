@@ -5,6 +5,8 @@
 //  Created by Marcel Voß on 28/01/14.
 //  Copyright (c) 2014 Marcel Voß. All rights reserved.
 //
+//  Color codes by http://brandcolors.net/
+//
 
 #import <UIKit/UIKit.h>
 
@@ -58,4 +60,48 @@
 + (UIColor *)etsyColor;
 + (UIColor *)evernoteColor;
 + (UIColor *)fabDotComColor;
++ (UIColor *)facebookColor;
++ (UIColor *)firefoxColor;
++ (UIColor *)flickrBlueColor;
++ (UIColor *)flickrPinkColor;
++ (UIColor *)forrstColor;
++ (UIColor *)foursquareColor;
++ (UIColor *)garminColor;
++ (UIColor *)getGlueColor;
++ (UIColor *)gimmebarColor;
++ (UIColor *)gitHubColor;
++ (UIColor *)googleBlueColor;
++ (UIColor *)googleGreenColor;
++ (UIColor *)googleRedColor;
++ (UIColor *)googleYellowColor;
++ (UIColor *)googlePlusColor;
++ (UIColor *)groovesharkColor;
++ (UIColor *)grouponColor;
++ (UIColor *)hackerNewsColor;
++ (UIColor *)helloWalletColor;
++ (UIColor *)herokuLightColor;
++ (UIColor *)herokuDarkColor;
++ (UIColor *)hootSuitColor;
++ (UIColor *)houzzColor;
++ (UIColor *)hpColor;
++ (UIColor *)html5Color;
++ (UIColor *)huluColor;
++ (UIColor *)ibmColor;
++ (UIColor *)ikeaColor;
++ (UIColor *)imdbColor;
++ (UIColor *)instagramColor;
++ (UIColor *)instapaperColor;
++ (UIColor *)intelColor;
++ (UIColor *)intuitColor;
++ (UIColor *)kickstarterColor;
++ (UIColor *)kipptColor;
++ (UIColor *)koderyColor;
++ (UIColor *)lastFMColor;
++ (UIColor *)linkedInColor;
++ (UIColor *)livestreamColor;
++ (UIColor *)lumoColor;
+
+
+
+
 @end
