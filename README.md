@@ -1,5 +1,4 @@
 # UIColor+BrandColors
-===
 `UIColor+BrandColors` is just a small Objective-C category which adds colors used by big companies.
 
 Source of all used colors and companies: [BrandColors.net](http://brandcolors.net).
