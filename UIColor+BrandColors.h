@@ -42,5 +42,20 @@
 + (UIColor *)dellColor;
 + (UIColor *)designmooColor;
 + (UIColor *)deviantartColor;
-
++ (UIColor *)designerNewsColor;
++ (UIColor *)devourColor;
++ (UIColor *)dewaltColor;
++ (UIColor *)disqusBlueColor;
++ (UIColor *)disqusOrangeColor;
++ (UIColor *)dribbbleColor;
++ (UIColor *)dropboxColor;
++ (UIColor *)drupalColor;
++ (UIColor *)dunkedColor;
++ (UIColor *)ebayColor;
++ (UIColor *)emberColor;
++ (UIColor *)engadgetColor;
++ (UIColor *)envatoColor;
++ (UIColor *)etsyColor;
++ (UIColor *)evernoteColor;
++ (UIColor *)fabDotComColor;
 @end

@@ -181,4 +181,122 @@
     return [UIColor colorWithRed:0.306 green:0.384 blue:0.322 alpha:1.0];
 }
 
++ (UIColor *)designerNewsColor
+{
+    // Hex: #2d72da
+    return [UIColor colorWithRed:0.176 green:0.447 blue:0.855 alpha:1.0];
+}
+
++ (UIColor *)devourColor
+{
+    // Hex: #fd0001
+    return [UIColor colorWithRed:0.992 green:0 blue:0.004 alpha:1.0];
+}
+
++ (UIColor *)dewaltColor
+{
+    // Hex: #febd17
+    return [UIColor colorWithRed:0.996 green:0.741 blue:0.09 alpha:1.0];
+}
+
++ (UIColor *)disqusBlueColor
+{
+    // Hex: #59a3fc
+    return [UIColor colorWithRed:0.349 green:0.639 blue:0.988 alpha:1.0];
+}
+
++ (UIColor *)disqusOrangeColor
+{
+    // Hex: #db7132
+    return [UIColor colorWithRed:0.859 green:0.443 blue:0.196 alpha:1.0];
+}
+
++ (UIColor *)dribbbleColor
+{
+    // Hex: #ea4c89
+    return [UIColor colorWithRed:0.918 green:0.298 blue:0.537 alpha:1.0];
+}
+
++ (UIColor *)dropboxColor
+{
+    // Hex: #3d9ae8
+    return [UIColor colorWithRed:0.239 green:0.604 blue:0.91 alpha:1.0];
+}
+
++ (UIColor *)drupalColor
+{
+    // Hex: #0c76ab
+    return [UIColor colorWithRed:0.047 green:0.463 blue:0.671 alpha:1.0];
+}
+
++ (UIColor *)dunkedColor
+{
+    // Hex: #2a323a
+    return [UIColor colorWithRed:0.165 green:0.196 blue:0.227 alpha:1.0];
+}
+
++ (UIColor *)ebayColor
+{
+    // Hex: #89c507
+    return [UIColor colorWithRed:0.537 green:0.773 blue:0.027 alpha:1.0];
+}
+
++ (UIColor *)emberColor
+{
+    // Hex: #f05e1b
+    return [UIColor colorWithRed:0.941 green:0.369 blue:0.106 alpha:1.0];
+}
+
++ (UIColor *)engadgetColor
+{
+    // Hex: #00bdf6
+    return [UIColor colorWithRed:0 green:0.741 blue:0.965 alpha:1.0];
+}
+
++ (UIColor *)envatoColor
+{
+    // Hex: #528036
+    return [UIColor colorWithRed:0.322 green:0.502 blue:0.212 alpha:1.0];
+}
+
++ (UIColor *)etsyColor
+{
+    // Hex: #eb6d20
+    return [UIColor colorWithRed:0.922 green:0.427 blue:0.125 alpha:1.0];
+}
+
++ (UIColor *)evernoteColor
+{
+    // Hex: #5ba525
+    return [UIColor colorWithRed:0.357 green:0.647 blue:0.145 alpha:1.0];
+}
+
++ (UIColor *)fabDotComColor
+{
+    // Hex: #dd0017
+    return [UIColor colorWithRed:0.867 green:0 blue:0.09 alpha:1.0];
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @end
