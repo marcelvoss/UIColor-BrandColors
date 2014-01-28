@@ -12,12 +12,8 @@
 
 @interface UIColor (BrandColors)
 
-// 4ormat
 + (UIColor *)fourmatColor;
-
-// 5oopx
 + (UIColor *)fiveHundredPixelsColor;
-
 + (UIColor *)aboutMeBlueColor;
 + (UIColor *)aboutMeYellowColor;
 + (UIColor *)addvocateColor;
@@ -100,8 +96,85 @@
 + (UIColor *)linkedInColor;
 + (UIColor *)livestreamColor;
 + (UIColor *)lumoColor;
-
-
-
++ (UIColor *)makitaRedColor;
++ (UIColor *)makitaBlueColor;
++ (UIColor *)mixpanelColor;
++ (UIColor *)meetupColor;
++ (UIColor *)netflixColor;
++ (UIColor *)nokiaColor;
++ (UIColor *)nvdiaColor;
++ (UIColor *)odnoklassnikiColor;
++ (UIColor *)operaColor;
++ (UIColor *)pathColor;
++ (UIColor *)paypalDarkColor;
++ (UIColor *)paypalLightColor;
++ (UIColor *)pinboardColor;
++ (UIColor *)pinterestColor;
++ (UIColor *)playstationColor;
++ (UIColor *)pocketColor;
++ (UIColor *)preziColor;
++ (UIColor *)pushaColor;
++ (UIColor *)quoraColor;
++ (UIColor *)quoteDotFMColor;
++ (UIColor *)rdioColor;
++ (UIColor *)readabilityColor;
++ (UIColor *)redHatColor;
++ (UIColor *)redditBlueColor;
++ (UIColor *)redditOrangeColor;
++ (UIColor *)resourceColor;
++ (UIColor *)rockpackColor;
++ (UIColor *)roonColor;
++ (UIColor *)rssColor;
++ (UIColor *)salesforceColor;
++ (UIColor *)samsungColor;
++ (UIColor *)shopifyColor;
++ (UIColor *)skypeColor;
++ (UIColor *)smashingMagazineColor;
++ (UIColor *)snagajobColor;
++ (UIColor *)soundCloudColor;
++ (UIColor *)spaceBoxColor;
++ (UIColor *)spotifyColor;
++ (UIColor *)sprintColor;
++ (UIColor *)squarespaceColor;
++ (UIColor *)stackOverflowColor;
++ (UIColor *)staplesColor;
++ (UIColor *)statusChartColor;
++ (UIColor *)stripeColor;
++ (UIColor *)studyBlueColor;
++ (UIColor *)stumbleUponColor;
++ (UIColor *)tmobileColor;
++ (UIColor *)technoratiColor;
++ (UIColor *)theNextWebColor;
++ (UIColor *)treehouseColor;
++ (UIColor *)trelloColor;
++ (UIColor *)truliaColor;
++ (UIColor *)tumblrColor;
++ (UIColor *)twitchColor;
++ (UIColor *)twitterColor;
++ (UIColor *)typekitColor;
++ (UIColor *)typo3Color;
++ (UIColor *)ubuntuColor;
++ (UIColor *)ustreamColor;
++ (UIColor *)verizonColor;
++ (UIColor *)vimeoColor;
++ (UIColor *)vineColor;
++ (UIColor *)virbColor;
++ (UIColor *)virginMediaColor;
++ (UIColor *)vkontakteColor;
++ (UIColor *)woogaColor;
++ (UIColor *)wordPressBlueColor;
++ (UIColor *)wordPressOrangeColor;
++ (UIColor *)wordPressGreyColor;
++ (UIColor *)wunderlistColor;
++ (UIColor *)xboxColor;
++ (UIColor *)xingColor;
++ (UIColor *)yahooColor;
++ (UIColor *)yandexColor;
++ (UIColor *)yelpColor;
++ (UIColor *)youtubeColor;
++ (UIColor *)zalongoColor;
++ (UIColor *)zendeskColor;
++ (UIColor *)zerplyColor;
++ (UIColor *)zootoolColor;
 
 @end

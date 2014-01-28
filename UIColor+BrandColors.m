@@ -439,9 +439,6 @@
     return [UIColor colorWithRed:0 green:0.243 blue:0.416 alpha:1.0];
 }
 
-
-
-
 + (UIColor *)ikeaColor
 {
     // Hex: #ffcc33
@@ -520,19 +517,487 @@
     return [UIColor colorWithRed:0.341 green:0.388 blue:0.588 alpha:1.0];
 }
 
++ (UIColor *)makitaRedColor
+{
+    // Hex: #d82028
+    return [UIColor colorWithRed:0.847 green:0.125 blue:0.157 alpha:1.0];
+}
+
++ (UIColor *)makitaBlueColor
+{
+    // Hex: #29a0b7
+    return [UIColor colorWithRed:0.161 green:0.627 blue:0.718 alpha:1.0];
+}
+
++ (UIColor *)mixpanelColor
+{
+    // Hex: #a086d3
+    return [UIColor colorWithRed:0.627 green:0.525 blue:0.827 alpha:1.0];
+}
+
++ (UIColor *)meetupColor
+{
+    // Hex: #e51937
+    return [UIColor colorWithRed:0.898 green:0.098 blue:0.216 alpha:1.0];
+}
+
++ (UIColor *)netflixColor
+{
+    // Hex: #b9070a
+    return [UIColor colorWithRed:0.725 green:0.027 blue:0.039 alpha:1.0];
+}
+
++ (UIColor *)nokiaColor
+{
+    // Hex: #183693
+    return [UIColor colorWithRed:0.094 green:0.212 blue:0.576 alpha:1.0];
+}
 
 
++ (UIColor *)nvdiaColor
+{
+    // Hex: #76b900
+    return [UIColor colorWithRed:0.463 green:0.725 blue:0 alpha:1.0];
+}
+
++ (UIColor *)odnoklassnikiColor
+{
+    // Hex: #ed812b
+    return [UIColor colorWithRed:0.929 green:0.506 blue:0.169 alpha:1.0];
+}
+
++ (UIColor *)operaColor
+{
+    // Hex: #cc0f16
+    return [UIColor colorWithRed:0.8 green:0.059 blue:0.086 alpha:1.0];
+}
+
++ (UIColor *)pathColor
+{
+    // Hex: #e41f11
+    return [UIColor colorWithRed:0.894 green:0.122 blue:0.067 alpha:1.0];
+}
+
++ (UIColor *)paypalDarkColor
+{
+    // Hex: #1e477a
+    return [UIColor colorWithRed:0.118 green:0.278 blue:0.478 alpha:1.0];
+}
+
++ (UIColor *)paypalLightColor
+{
+    // Hex: #3b7bbf
+    return [UIColor colorWithRed:0.231 green:0.482 blue:0.749 alpha:1.0];
+}
+
++ (UIColor *)pinboardColor
+{
+    // Hex: #0000e6
+    return [UIColor colorWithRed:0 green:0 blue:0.902 alpha:1.0];
+}
+
++ (UIColor *)pinterestColor
+{
+    // Hex: #c8232c
+    return [UIColor colorWithRed:0.784 green:0.137 blue:0.173 alpha:1.0];
+}
+
++ (UIColor *)playstationColor
+{
+    // Hex: #665cbe
+    return [UIColor colorWithRed:0.4 green:0.361 blue:0.745 alpha:1.0];
+}
+
++ (UIColor *)pocketColor
+{
+    // Hex: #ee4056
+    return [UIColor colorWithRed:0.933 green:0.251 blue:0.337 alpha:1.0];
+}
+
++ (UIColor *)preziColor
+{
+    // Hex: #318bff
+    return [UIColor colorWithRed:0.192 green:0.545 blue:1 alpha:1.0];
+}
+
++ (UIColor *)pushaColor
+{
+    // Hex: #0f71b4
+    return [UIColor colorWithRed:0.059 green:0.443 blue:0.706 alpha:1.0];
+}
+
++ (UIColor *)quoraColor
+{
+    // Hex: #a82400
+    return [UIColor colorWithRed:0.659 green:0.141 blue:0 alpha:1.0];
+}
+
++ (UIColor *)quoteDotFMColor
+{
+    // Hex: #66ceff
+    return [UIColor colorWithRed:0.4 green:0.808 blue:1 alpha:1.0];
+}
 
 
++ (UIColor *)rdioColor
+{
+    // Hex: #008fd5
+    return [UIColor colorWithRed:0 green:0.561 blue:0.835 alpha:1.0];
+}
+
++ (UIColor *)readabilityColor
+{
+    // Hex: #9c0000
+    return [UIColor colorWithRed:0.612 green:0 blue:0 alpha:1.0];
+}
+
++ (UIColor *)redHatColor
+{
+    // Hex: #cc0000
+    return [UIColor colorWithRed:0.8 green:0 blue:0 alpha:1.0];
+}
+
++ (UIColor *)redditBlueColor
+{
+    // Hex: #cee2f8
+    return [UIColor colorWithRed:0.808 green:0.886 blue:0.973 alpha:1.0];
+}
+
++ (UIColor *)redditOrangeColor
+{
+    // Hex: #ff4500
+    return [UIColor colorWithRed:1 green:0.271 blue:0 alpha:1.0];
+}
+
++ (UIColor *)resourceColor
+{
+    // Hex: #7eb400
+    return [UIColor colorWithRed:0.494 green:0.706 blue:0 alpha:1.0];
+}
+
++ (UIColor *)rockpackColor
+{
+    // Hex: #0ba6ab
+    return [UIColor colorWithRed:0.043 green:0.651 blue:0.671 alpha:1.0];
+}
+
++ (UIColor *)roonColor
+{
+    // Hex: #62b0d9
+    return [UIColor colorWithRed:0.384 green:0.69 blue:0.851 alpha:1.0];
+}
+
++ (UIColor *)rssColor
+{
+    // Hex: #ee802f
+    return [UIColor colorWithRed:0.933 green:0.502 blue:0.184 alpha:1.0];
+}
+
++ (UIColor *)salesforceColor
+{
+    // Hex: #1798c1
+    return [UIColor colorWithRed:0.09 green:0.596 blue:0.757 alpha:1.0];
+}
+
++ (UIColor *)samsungColor
+{
+    // Hex: #0c4da2
+    return [UIColor colorWithRed:0.047 green:0.302 blue:0.635 alpha:1.0];
+}
+
++ (UIColor *)shopifyColor
+{
+    // Hex: #96bf48
+    return [UIColor colorWithRed:0.588 green:0.749 blue:0.282 alpha:1.0];
+}
+
++ (UIColor *)skypeColor
+{
+    // Hex: #00aff0
+    return [UIColor colorWithRed:0 green:0.686 blue:0.941 alpha:1.0];
+}
+
++ (UIColor *)smashingMagazineColor
+{
+    // Hex: #f0503a
+    return [UIColor colorWithRed:0.941 green:0.314 blue:0.227 alpha:1.0];
+}
+
++ (UIColor *)snagajobColor
+{
+    // Hex: #f47a20
+    return [UIColor colorWithRed:0.957 green:0.478 blue:0.125 alpha:1.0];
+}
 
 
++ (UIColor *)soundCloudColor
+{
+    // Hex: #ff7700
+    return [UIColor colorWithRed:1 green:0.467 blue:0 alpha:1.0];
+}
 
++ (UIColor *)spaceBoxColor
+{
+    // Hex: #f86960
+    return [UIColor colorWithRed:0.973 green:0.412 blue:0.376 alpha:1.0];
+}
 
++ (UIColor *)spotifyColor
+{
+    // Hex: #81b71a
+    return [UIColor colorWithRed:0.506 green:0.718 blue:0.102 alpha:1.0];
+}
 
++ (UIColor *)sprintColor
+{
+    // Hex: #fee100
+    return [UIColor colorWithRed:0.996 green:0.882 blue:0 alpha:1.0];
+}
 
++ (UIColor *)squarespaceColor
+{
+    // Hex: #121212
+    return [UIColor colorWithRed:0.071 green:0.071 blue:0.071 alpha:1.0];
+}
 
++ (UIColor *)stackOverflowColor
+{
+    // Hex: #ef8236
+    return [UIColor colorWithRed:0.937 green:0.51 blue:0.212 alpha:1.0];
+}
 
++ (UIColor *)staplesColor
+{
+    // Hex: #cc0000
+    return [UIColor colorWithRed:0.8 green:0 blue:0 alpha:1.0];
+}
 
++ (UIColor *)statusChartColor
+{
+    // Hex: #d7584f
+    return [UIColor colorWithRed:0.843 green:0.345 blue:0.31 alpha:1.0];
+}
 
++ (UIColor *)stripeColor
+{
+    // Hex: #008cdd
+    return [UIColor colorWithRed:0 green:0.549 blue:0.867 alpha:1.0];
+}
+
++ (UIColor *)studyBlueColor
+{
+    // Hex: #00afe1
+    return [UIColor colorWithRed:0 green:0.686 blue:0.882 alpha:1.0];
+}
+
++ (UIColor *)stumbleUponColor
+{
+    // Hex: #f74425
+    return [UIColor colorWithRed:0.969 green:0.267 blue:0.145 alpha:1.0];
+}
+
++ (UIColor *)tmobileColor
+{
+    // Hex: #ea0a8e
+    return [UIColor colorWithRed:0.918 green:0.039 blue:0.557 alpha:1.0];
+}
+
++ (UIColor *)technoratiColor
+{
+    // Hex: #40a800
+    return [UIColor colorWithRed:0.251 green:0.659 blue:0 alpha:1.0];
+}
+
++ (UIColor *)theNextWebColor
+{
+    // Hex: #ef4423
+    return [UIColor colorWithRed:0.937 green:0.267 blue:0.137 alpha:1.0];
+}
+
++ (UIColor *)treehouseColor
+{
+    // Hex: #5cb868
+    return [UIColor colorWithRed:0.361 green:0.722 blue:0.408 alpha:1.0];
+}
+
++ (UIColor *)trelloColor
+{
+    // Hex: #256a92
+    return [UIColor colorWithRed:0.145 green:0.416 blue:0.573 alpha:1.0];
+}
+
++ (UIColor *)truliaColor
+{
+    // Hex: #5eab1f
+    return [UIColor colorWithRed:0.369 green:0.671 blue:0.122 alpha:1.0];
+}
+
++ (UIColor *)tumblrColor
+{
+    // Hex: #34526f
+    return [UIColor colorWithRed:0.204 green:0.322 blue:0.435 alpha:1.0];
+}
+
++ (UIColor *)twitchColor
+{
+    // Hex: #6441a5
+    return [UIColor colorWithRed:0.392 green:0.255 blue:0.647 alpha:1.0];
+}
+
++ (UIColor *)twitterColor
+{
+    // Hex: #00acee
+    return [UIColor colorWithRed:0 green:0.675 blue:0.933 alpha:1.0];
+}
+
++ (UIColor *)typekitColor
+{
+    // Hex: #9aca3c
+    return [UIColor colorWithRed:0.604 green:0.792 blue:0.235 alpha:1.0];
+}
+
++ (UIColor *)typo3Color
+{
+    // Hex: #ff8700
+    return [UIColor colorWithRed:1 green:0.529 blue:0 alpha:1.0];
+}
+
++ (UIColor *)ubuntuColor
+{
+    // Hex: #dd4814
+    return [UIColor colorWithRed:0.867 green:0.282 blue:0.078 alpha:1.0];
+}
+
++ (UIColor *)ustreamColor
+{
+    // Hex: #3388ff
+    return [UIColor colorWithRed:0.2 green:0.533 blue:1 alpha:1.0];
+}
+
++ (UIColor *)verizonColor
+{
+    // Hex: #ef1d1d
+    return [UIColor colorWithRed:0.937 green:0.114 blue:0.114 alpha:1.0];
+}
+
++ (UIColor *)vimeoColor
+{
+    // Hex: #44bbff
+    return [UIColor colorWithRed:0.267 green:0.733 blue:1 alpha:1.0];
+}
+
++ (UIColor *)vineColor
+{
+    // Hex: #00a478
+    return [UIColor colorWithRed:0 green:0.643 blue:0.471 alpha:1.0];
+}
+
++ (UIColor *)virbColor
+{
+    // Hex: #06afd8
+    return [UIColor colorWithRed:0.024 green:0.686 blue:0.847 alpha:1.0];
+}
+
++ (UIColor *)virginMediaColor
+{
+    // Hex: #cc0000
+    return [UIColor colorWithRed:0.8 green:0 blue:0 alpha:1.0];
+}
+
++ (UIColor *)vkontakteColor
+{
+    // Hex: #45668e
+    return [UIColor colorWithRed:0.271 green:0.4 blue:0.557 alpha:1.0];
+}
+
++ (UIColor *)woogaColor
+{
+    // Hex: #5b009c
+    return [UIColor colorWithRed:0.357 green:0 blue:0.612 alpha:1.0];
+}
+
++ (UIColor *)wordPressBlueColor
+{
+    // Hex: #21759b
+    return [UIColor colorWithRed:0.129 green:0.459 blue:0.608 alpha:1.0];
+}
+
++ (UIColor *)wordPressOrangeColor
+{
+    // Hex: #d54e21
+    return [UIColor colorWithRed:0.835 green:0.306 blue:0.129 alpha:1.0];
+}
+
++ (UIColor *)wordPressGreyColor
+{
+    // Hex: #464646
+    return [UIColor colorWithRed:0.275 green:0.275 blue:0.275 alpha:1.0];
+}
+
++ (UIColor *)wunderlistColor
+{
+    // Hex: #2b88d9
+    return [UIColor colorWithRed:0.169 green:0.533 blue:0.851 alpha:1.0];
+}
+
++ (UIColor *)xboxColor
+{
+    // Hex: #9bc848
+    return [UIColor colorWithRed:0.608 green:0.784 blue:0.282 alpha:1.0];
+}
+
++ (UIColor *)xingColor
+{
+    // Hex: #126567
+    return [UIColor colorWithRed:0.071 green:0.396 blue:0.404 alpha:1.0];
+}
+
++ (UIColor *)yahooColor
+{
+    // Hex: #720e9e
+    return [UIColor colorWithRed:0.447 green:0.055 blue:0.62 alpha:1.0];
+}
+
++ (UIColor *)yandexColor
+{
+    // Hex: #ffcc00
+    return [UIColor colorWithRed:1 green:0.8 blue:0 alpha:1.0];
+}
+
++ (UIColor *)yelpColor
+{
+    // Hex: #c41200
+    return [UIColor colorWithRed:0.769 green:0.071 blue:0 alpha:1.0];
+}
+
++ (UIColor *)youtubeColor
+{
+    // Hex: #c4302b
+    return [UIColor colorWithRed:0.769 green:0.188 blue:0.169 alpha:1.0];
+}
+
++ (UIColor *)zalongoColor
+{
+    // Hex: #5498dc
+    return [UIColor colorWithRed:0.329 green:0.596 blue:0.863 alpha:1.0];
+}
+
++ (UIColor *)zendeskColor
+{
+    // Hex: #78a300
+    return [UIColor colorWithRed:0.471 green:0.639 blue:0 alpha:1.0];
+}
+
++ (UIColor *)zerplyColor
+{
+    // Hex: #9dcc7a
+    return [UIColor colorWithRed:0.616 green:0.8 blue:0.478 alpha:1.0];
+}
+
++ (UIColor *)zootoolColor
+{
+    // Hex: #5e8b1d
+    return [UIColor colorWithRed:0.369 green:0.545 blue:0.114 alpha:1.0];
+}
 
 @end
