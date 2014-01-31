@@ -15,4 +15,4 @@ UIColor+BrandColors:
 `self.navigationItem.rightBarButtonItem.tintColor = [UIColor aolColor];`
 
 ## Why?
-I was bored and I wanted a convenient way to use the colors from BrandColors.net. So I just decided to make UIColor+BrandColors. It's nothing special but I hope it may be useful for anyone.
+I was bored and I wanted a convenient way to use the colors from BrandColors.net. So I just decided to make UIColor+BrandColors. It's nothing special but I hope it might be useful for anyone.
